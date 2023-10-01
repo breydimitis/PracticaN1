@@ -1,0 +1,2 @@
+# PracticaN1
+EjerciciosdePython
